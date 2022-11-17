@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hola a todos!!
 
-<!--
-**zarco-dev/zarco-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![portada](zarco.gif)
 
-Here are some ideas to get you started:
+### ¡Hola! Soy **Sebas**, desarrollador web junior fullstack enfocado en back-end. Mi stack se compone de Ruby y su framework Rails, PostgreSQL y tecnologias front-end (HTML5, CSS, JavaScript (ES6)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tengo conocimiento en manejo de control de versiones (GIT) y despliegue a repositorios como GitHub y Bitbucket. También he tenido la oportunidad de emplear metodología Scrum.
+
+---
+
+## Habilidades y tecnologias
+
+---
+
+![html5](https://img.icons8.com/color/96/ruby-programming-language.png)
+![html5](https://img.icons8.com/color/96/html-5--v1.png)
+![html5](https://img.icons8.com/fluency/96/css3.png)
+![html5](https://img.icons8.com/color/96/javascript--v1.png)
+![html5](https://img.icons8.com/color/96/heroku.png)
+![html5](https://img.icons8.com/fluency/96/github.png)
+![html5](https://img.icons8.com/color/96/git.png)
