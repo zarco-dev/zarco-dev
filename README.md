@@ -1,6 +1,6 @@
 # Hola a todos!!
 
-![portada](zarco.gif)
+![portada](helloworld.gif)
 
 ### ¡Hola! Soy **Sebas**, desarrollador web junior fullstack enfocado en back-end. Mi stack se compone de Ruby y su framework Rails, PostgreSQL y tecnologias front-end (HTML5, CSS, JavaScript (ES6)).
 
