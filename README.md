@@ -2,9 +2,9 @@
 
 ![portada](helloworld.gif)
 
-#### ¡Hola! Soy **Sebas**, desarrollador web junior fullstack enfocado en back-end. Mi stack se compone de Ruby y su framework Rails, PostgreSQL y tecnologias front-end (HTML5, CSS, JavaScript (ES6)).
+### Soy Sebas, desarrollador web junior full-stack. Desarrollo aplicaciones web desde el back-end, usando Ruby y su framework Rails y bases de datos empleando PostgreSQL; hasta el front-end  utilizando HTML5, CSS con su framework Bootstrap y JavaScript (Stimulus).
 
-#### Tengo conocimiento en manejo de control de versiones (GIT) y despliegue a repositorios como GitHub y Bitbucket. También he tenido la oportunidad de emplear metodología Scrum.
+### Empleo GIT para el control de versiones, repositorios como GitHub y Bitbucket y Heroku para el despliegue de los aplicativos.
 
 <br><br><br>
 
