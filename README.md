@@ -22,6 +22,16 @@
 
 <br><br><br>
 
+## Proyectos Recientes
+
+-------------------------------------------------
+### ![aegis](https://i.imgur.com/d5ORGtK.png) Aegis: https://managemypass.herokuapp.com/
+--------------------------------------------------
+### ![fastbox](https://i.imgur.com/6xZ49bh.png) FastBox: http://fastboxdelivery.herokuapp.com/
+---------------------------------------------------
+
+<br><br><br>
+
 ## Contáctame
 
 <br>
