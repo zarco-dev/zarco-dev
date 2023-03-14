@@ -14,11 +14,12 @@
 
 | Back-end | Front-end | BD | Cloud | Control Version |
 | :------: | :-------: | :-: | :--: | :----------------------------: |
-|![Ruby](https://img.icons8.com/color/40/ruby-programming-language.png) | ![Ruby](https://img.icons8.com/color/45/html-5--v1.png) | ![Ruby](https://img.icons8.com/color/45/postgreesql.png) | ![Ruby](https://img.icons8.com/color/45/heroku.png) | ![Ruby](https://img.icons8.com/color/45/git.png)
-|![Ruby](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png) | ![Ruby](https://img.icons8.com/fluency/45/css3.png) | ![Ruby](https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_sqlite_icon_130153.png) | ![Ruby](https://img.icons8.com/external-konkapp-flat-konkapp/45/external-railway-japan-konkapp-flat-konkapp.png) | ![Ruby](https://img.icons8.com/dusk/45/github.png)
-| | ![Ruby](https://img.icons8.com/fluency/45/javascript.png) | ![Ruby](https://img.icons8.com/parakeet/45/csv.png) | ![Ruby](https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png) | ![Ruby](https://img.icons8.com/doodle/45/bitbucket-new.png)
-| | ![Ruby](https://img.icons8.com/color/50/sass.png)
-| | ![Ruby](https://img.icons8.com/color/50/bootstrap.png)
+|![Ruby](https://img.icons8.com/color/40/ruby-programming-language.png "Ruby") | ![HTML](https://img.icons8.com/color/45/html-5--v1.png "HTML") | ![Postgresql](https://img.icons8.com/color/45/postgreesql.png "Postgresql") | ![Heroku](https://img.icons8.com/color/45/heroku.png "Heroku") | ![Git](https://img.icons8.com/color/45/git.png "Git")
+|![Rails](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png "Ruby on Rails") | ![CSS](https://img.icons8.com/fluency/45/css3.png "CSS") | ![SQLite](https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_sqlite_icon_130153.png "SQLite") | ![Railway](https://img.icons8.com/external-konkapp-flat-konkapp/45/external-railway-japan-konkapp-flat-konkapp.png "Railway") | ![Github](https://img.icons8.com/dusk/45/github.png "GitHub")
+| | ![JavaScript](https://img.icons8.com/fluency/45/javascript.png "JavaScript") | ![CSV](https://img.icons8.com/parakeet/45/csv.png "CSV") | ![Netlify](https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png "Netlify") | ![Bitbucket](https://img.icons8.com/doodle/45/bitbucket-new.png "Bitbucket")
+| | ![Sass](https://img.icons8.com/color/50/sass.png "Sass")
+| | ![Bootstrap](https://img.icons8.com/color/50/bootstrap.png "Bootstrap")
+| | <img src="https://seeklogo.com/images/S/stimulus-logo-00C9C155E0-seeklogo.com.png" alt="stimulus js" width="40" title="Stimulus.js">
 
 
 <br><br><br>
