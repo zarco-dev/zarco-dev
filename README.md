@@ -1,4 +1,5 @@
-# Hello World! ![visitors](https://visitor-badge.glitch.me/badge?page_id=zarco-dev&left_color=black&right_color=yellow)
+# Hello World!
+## ![visitors](https://visitor-badge.glitch.me/badge?page_id=zarco-dev&left_color=black&right_color=yellow) ![GitHub followers](https://img.shields.io/github/followers/zarco-dev?color=yellow)
 
 ![portada](hello.gif)
 
