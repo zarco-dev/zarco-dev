@@ -26,11 +26,12 @@
 
 ## Proyectos Recientes
 
--------------------------------------------------
-### ![aegis](https://i.imgur.com/d5ORGtK.png) Aegis: https://managemypass.herokuapp.com/
---------------------------------------------------
-### ![fastbox](https://i.imgur.com/6xZ49bh.png) FastBox: http://fastboxdelivery.herokuapp.com/
----------------------------------------------------
+
+| Project | Path |
+|:---:|:---:|
+| <div>![aegis](https://i.imgur.com/d5ORGtK.png) <br> <b>aegis</b> </div> | https://managemypass.herokuapp.com/ |
+
+
 
 <br><br><br>
 
@@ -38,6 +39,6 @@
 
 <br>
 
-[![Linkedin](https://img.icons8.com/color/48/linkedin-circled--v1.png)](https://www.linkedin.com/in/sebasrestrepo/)
-[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/z.a.r.c.o/?hl=es-la)
-[![gmail](https://img.icons8.com/color-glass/48/gmail.png)](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=CllgCHrhTWCBJBnxnpqnzbsgCNJppJZSWcxSLtxsctRlGtrSBFpVHCCfcVDXfpZqcPKTLHDrPnq)
+| LinkedIn | Instagram | Gmail |
+|:---:|:---:|:---:|
+| [![Linkedin](https://img.icons8.com/color/48/linkedin-circled--v1.png)](https://www.linkedin.com/in/sebasrestrepo/) | [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/z.a.r.c.o/?hl=es-la) | [![gmail](https://img.icons8.com/color-glass/48/gmail.png)](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=CllgCHrhTWCBJBnxnpqnzbsgCNJppJZSWcxSLtxsctRlGtrSBFpVHCCfcVDXfpZqcPKTLHDrPnq) |
