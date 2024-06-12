@@ -2,7 +2,7 @@
 
 Seasoned Ruby on Rails (RoR) developer and lecturer with extensive experience in software development and education. Skilled in crafting sophisticated applications using Ruby on Rails, PostgreSQL, Redis, HTML, CSS and JavaScript, as a professional excels in enhancing user interactions and operational efficiencies. My notable achievements include integrating the Docusign API for streamlined digital signings, developing a Progressive Web App (PWA), and creation of a map with geofences to establish risk zones dynamically. As a Lecturer Assistant at Le Wagon, expertise is demonstrated through supporting students in overcoming technical challenges and enhancing their understanding of both front-end and back-end technologies. This blend of development and teaching prowess enables effective bridging of theoretical knowledge and practical application, contributing significantly to the fields of software engineering and tech education.
 
-<br>
+<br><br>
 
 ## Technologies and tools
 
@@ -30,6 +30,7 @@ Seasoned Ruby on Rails (RoR) developer and lecturer with extensive experience in
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<br><br>
 
 ## Contact me
 
