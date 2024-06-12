@@ -1,6 +1,3 @@
-# Hello World!
-## ![visitors](https://visitor-badge.glitch.me/badge?page_id=zarco-dev&left_color=black&right_color=yellow) ![GitHub followers](https://img.shields.io/github/followers/zarco-dev?color=yellow)
-
 ![portada](hello.gif)
 
 ### Soy Sebas 🧒🏼, Full-Stack RoR Developer 🔸 y TA at Le Wagon . Desarrollo aplicaciones web desde el back-end, usando Ruby y su framework Rails y bases de datos empleando PostgreSQL; hasta el front-end utilizando HTML5, CSS con su framework Bootstrap y JavaScript (Stimulus).
@@ -26,6 +23,7 @@
 <br><br><br>
 
 ## Proyectos Recientes
+##  ![GitHub followers](https://img.shields.io/github/followers/zarco-dev?color=yellow)
 
 
 | Project | Path |
